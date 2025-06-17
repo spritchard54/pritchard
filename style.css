@@ -2,6 +2,12 @@ img {
     max-height: 425px;
 }
 
+/* @media only screen and (max-width: 600px) {
+    figure {
+        margin: 0;
+    }
+} */
+
 figure {
     max-width: 300px;
 }
