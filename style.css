@@ -1,3 +1,21 @@
+header {
+    background-color: black;
+    color: white;
+    height: 100px;
+    padding: 0 0 0 20px;
+}
+
+header h1 {
+    line-height: 100px;
+}
+
+@media screen and (max-width: 600px) {
+   header h1 {
+    font-size: 20px;
+  }
+}
+
+
 img {
     max-height: 425px;
 }
@@ -5,6 +23,10 @@ img {
 figure {
     max-width: 300px;
 
+}
+
+figure.primary {
+    max-width: 100%;
 }
 
 ul {
