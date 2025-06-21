@@ -81,8 +81,8 @@ li.navList {
     color: black;
 }
 
-.lt-blue {
-    color: rgb(149, 245, 208);
+.welshGreen {
+    color: #1ab347;
 }
 
 /* Image Gallery */
@@ -174,4 +174,20 @@ li.navList {
 .active,
 .demo:hover {
   opacity: 1;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  height: 50px;
+  line-height: 50px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+margin-left: 25px;
+margin-bottom: 0px;
 }
