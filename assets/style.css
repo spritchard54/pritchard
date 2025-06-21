@@ -1,88 +1,86 @@
-a {
-   
+html {
+  position: relative;
+  min-height: 100%;
 }
 
+
 header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: black;
-    color: white;
-    padding: 0 20px 0 20px;
-    height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  color: white;
+  padding: 0 20px 0 20px;
+  height: 100px;
 }
 
 @media screen and (max-width: 600px) {
-    header {
-        flex-direction: column;
-        font-size: 20px;
-        padding: 0;
-    }
+  header {
+    flex-direction: column;
+    font-size: 20px;
+    padding: 0;
+  }
 
-    header h1 {
-        font-size: 20px;
-        line-height: 50px;
-    }
+  header h1 {
+    font-size: 20px;
+    line-height: 50px;
+  }
 
-    header ul li {
-        font-size: 15px;
-        line-height: 25px;
-    }
+  header ul li {
+    font-size: 15px;
+    line-height: 25px;
+  }
 
-    nav {
-        width: 100%;
-        background-color: slategray;
-        padding: 10px 0;
-    }
+  nav {
+    width: 100%;
+    background-color: slategray;
+    padding: 10px 0;
+  }
 }
 
-/* img {
-    max-height: 425px;
-} */
-
 figure {
-    max-width: 300px;
+  max-width: 300px;
 
 }
 
 figure.primary {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 ul {
-    -moz-column-count: 2;
-    -moz-column-gap: 20px;
-    -webkit-column-count: 2;
-    -webkit-column-gap: 20px;
-    column-count: 2;
-    column-gap: 20px;
+  -moz-column-count: 2;
+  -moz-column-gap: 20px;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 20px;
+  column-count: 2;
+  column-gap: 20px;
 }
 
 li {
-    list-style: circle;
+  list-style: circle;
 }
 
 li.navList {
-    list-style: none;
+  list-style: none;
 }
 
 @media only screen and (max-width: 600px) {
-    figure {
-        max-width: 175px;
-    }
+  figure {
+    max-width: 175px;
+  }
 }
 
 .nav-link.active,
 .nav-link {
-    background-color: whitesmoke;
+  background-color: whitesmoke;
 }
 
 .nav-link {
-    color: black;
+  color: black;
 }
 
 .welshGreen {
-    color: #1ab347;
+  color: #1ab347;
 }
 
 /* Image Gallery */
@@ -181,13 +179,13 @@ footer {
   color: white;
   height: 50px;
   line-height: 50px;
-  position: fixed;
-  left: 0;
-  bottom: 0;
   width: 100%;
+  position: absolute;
+  bottom: 0;
+  
 }
 
 footer p {
-margin-left: 25px;
-margin-bottom: 0px;
+  margin-left: 25px;
+  margin-bottom: 0px;
 }
