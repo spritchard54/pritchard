@@ -97,7 +97,7 @@ li.navList {
 /* Position the image container (needed to position the left and right arrows) */
 .image-container {
   position: relative;
-
+  max-width: 350px;
 }
 
 /* Hide the images by default */
