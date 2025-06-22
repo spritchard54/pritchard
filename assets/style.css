@@ -157,6 +157,10 @@ li.navList {
   color: white;
 }
 
+.caption-container p {
+  margin: 10px 0;
+}
+
 .image-row:after {
   content: "";
   display: table;
