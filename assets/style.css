@@ -1,3 +1,9 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Lugrasimo&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 .lugrasimo-regular {
@@ -5,7 +11,6 @@
   font-weight: 400;
   font-style: normal;
 }
-
 
 @import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&family=Caveat:wght@400..700&family=Lugrasimo&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
@@ -15,16 +20,9 @@
   font-style: normal;
 }
 
-body {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-}
-
 .container {
   flex: 1;
 }
-
 
 header {
   display: flex;
@@ -36,27 +34,35 @@ header {
   height: 100px;
 }
 
+header h1 {
+  line-height: 100px;
+}
+
 @media screen and (max-width: 600px) {
   header {
     flex-direction: column;
     font-size: 20px;
     padding: 0;
+    height: 50px;
+    margin-bottom: 50px;
   }
 
   header h1 {
     font-size: 18px;
-    line-height: 18px;
-  }
-
-  header ul li {
-    font-size: 15px;
-    line-height: 25px;
+    line-height: 50px;
+    margin-bottom: 0;
   }
 
   nav {
+    flex: auto;
     width: 100%;
     background-color: slategray;
     padding: 10px 0;
+    
+  }
+
+  header ul li {
+    font-size: 12px;
   }
 }
 
