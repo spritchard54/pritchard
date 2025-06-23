@@ -1,3 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Lugrasimo&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.lugrasimo-regular {
+  font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&family=Caveat:wght@400..700&family=Lugrasimo&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.castoro-titling-regular {
+  font-family: "Castoro Titling", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body {
   display: flex;
   min-height: 100vh;
