@@ -58,7 +58,7 @@ header h1 {
     width: 100%;
     background-color: slategray;
     padding: 10px 0;
-    
+
   }
 
   header ul li {
@@ -218,4 +218,17 @@ footer {
 footer p {
   margin-left: 25px;
   margin-bottom: 0px;
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 390px) 
+  and (max-device-width: 844px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) { 
+
+    header h1 {
+      font-size: 18px;
+    }
+
 }
