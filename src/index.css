@@ -1,0 +1,33 @@
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+header {
+    background-color: rgb(69, 101, 169);
+}
+
+header .navbar-brand, .nav-link {
+    color: aliceblue;
+}
+
+footer {
+    background-color: rgb(69, 101, 169);
+    color: aliceblue;
+    height: 50px;
+}
