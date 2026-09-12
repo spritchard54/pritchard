@@ -1,0 +1,104 @@
+[
+    {
+        "_id": {
+            "$oid": "6aa45d044b02fc3d05a49db2"
+        },
+        "name": {
+            "first": "William",
+            "middle": "Eugene",
+            "last": "Pritchard",
+            "suffix": "Jr."
+        },
+        "birth": {
+            "date": "1950-08-29",
+            "location": {
+                "town": "Danville",
+                "state": "Pennsylvania",
+                "country": "United States"
+            }
+        },
+        "personKey": "william-pritchard-9db2"
+    },
+    {
+        "_id": {
+            "$oid": "6aa54e394b02fc3d05a49db5"
+        },
+        "name": {
+            "first": "Cyndee",
+            "Middle": "Susan",
+            "last": "Pritchard",
+            "suffix": "Jr.",
+            "maiden": "Dunivan"
+        },
+        "birth": {
+            "date": "1950-08-29",
+            "location": {
+                "town": "Tilden",
+                "state": "Nebraska",
+                "country": "United States"
+            }
+        },
+        "personKey": "cyndee-pritchard-9db5"
+    },
+    {
+        "_id": {
+            "$oid": "6aa54efb4b02fc3d05a49db6"
+        },
+        "name": {
+            "first": "Michael",
+            "middle": "Joseph",
+            "last": "Pritchard",
+            "suffix": ""
+        },
+        "birth": {
+            "date": "1977-04-26",
+            "location": {
+                "town": "Danville",
+                "state": "Pennsylvania",
+                "country": "United States"
+            }
+        },
+        "personKey": "michael-pritchard-9db6"
+    },
+    {
+        "_id": {
+            "$oid": "6aa54f374b02fc3d05a49db7"
+        },
+        "name": {
+            "first": "Steven",
+            "middle": "William",
+            "last": "Pritchard",
+            "suffix": ""
+        },
+        "birth": {
+            "date": "1979-09-05",
+            "location": {
+                "town": "Danville",
+                "state": "Pennsylvania",
+                "country": "United States"
+            }
+        },
+        "personKey": "steven-pritchard-9db7"
+    },
+    {
+        "_id": {
+            "$oid": "6aa54f8a4b02fc3d05a49db8"
+        },
+        "name": {
+            "first": "Kimberly",
+            "Middle": "Lynn",
+            "last": "Jaraiedi",
+            "suffix": "",
+            "maiden": "Pritchard"
+        },
+        "birth": {
+            "date": "1983-04-12",
+            "location": {
+                "town": "Danville",
+                "state": "Pennsylvania",
+                "country": "United States"
+            }
+        },
+        "personKey": "kimberly-jaraiedi-9db8"
+    }
+]
