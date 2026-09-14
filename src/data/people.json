@@ -5,15 +5,15 @@
         },
         "name": {
             "first": "William",
-            "middle": "Eugene",
+            "middle": "E",
             "last": "Pritchard",
             "suffix": "Jr."
         },
         "birth": {
-            "date": "1950-08-29",
+            "date": "1976-04-22",
             "location": {
-                "town": "Danville",
-                "state": "Pennsylvania",
+                "town": "Los Angeles",
+                "state": "CA",
                 "country": "United States"
             }
         },
@@ -25,16 +25,15 @@
         },
         "name": {
             "first": "Cyndee",
-            "Middle": "Susan",
+            "Middle": "S",
             "last": "Pritchard",
-            "suffix": "Jr.",
-            "maiden": "Dunivan"
+            "suffix": "Jr."
         },
         "birth": {
-            "date": "1950-08-29",
+            "date": "1951-03-16",
             "location": {
-                "town": "Tilden",
-                "state": "Nebraska",
+                "town": "Des Moine",
+                "state": "IA",
                 "country": "United States"
             }
         },
@@ -46,15 +45,15 @@
         },
         "name": {
             "first": "Michael",
-            "middle": "Joseph",
+            "middle": "J",
             "last": "Pritchard",
             "suffix": ""
         },
         "birth": {
-            "date": "1977-04-26",
+            "date": "1973-06-06",
             "location": {
-                "town": "Danville",
-                "state": "Pennsylvania",
+                "town": "Naple",
+                "state": "FL",
                 "country": "United States"
             }
         },
@@ -66,15 +65,15 @@
         },
         "name": {
             "first": "Steven",
-            "middle": "William",
+            "middle": "W",
             "last": "Pritchard",
             "suffix": ""
         },
         "birth": {
-            "date": "1979-09-05",
+            "date": "1984-10-07",
             "location": {
-                "town": "Danville",
-                "state": "Pennsylvania",
+                "town": "Jackson",
+                "state": "WY",
                 "country": "United States"
             }
         },
@@ -86,16 +85,15 @@
         },
         "name": {
             "first": "Kimberly",
-            "Middle": "Lynn",
+            "Middle": "L",
             "last": "Jaraiedi",
-            "suffix": "",
-            "maiden": "Pritchard"
+            "suffix": ""
         },
         "birth": {
             "date": "1983-04-12",
             "location": {
-                "town": "Danville",
-                "state": "Pennsylvania",
+                "town": "Portland",
+                "state": "ME",
                 "country": "United States"
             }
         },
