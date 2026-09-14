@@ -1,0 +1,102 @@
+[
+    {
+        "_id": {
+            "$oid": "6aa45d044b02fc3d05a49db2"
+        },
+        "name": {
+            "first": "William",
+            "middle": "E",
+            "last": "Pritchard",
+            "suffix": "Jr."
+        },
+        "birth": {
+            "date": "1976-04-22",
+            "location": {
+                "town": "Los Angeles",
+                "state": "CA",
+                "country": "United States"
+            }
+        },
+        "personKey": "william-pritchard-9db2"
+    },
+    {
+        "_id": {
+            "$oid": "6aa54e394b02fc3d05a49db5"
+        },
+        "name": {
+            "first": "Cyndee",
+            "Middle": "S",
+            "last": "Pritchard",
+            "suffix": "Jr."
+        },
+        "birth": {
+            "date": "1951-03-16",
+            "location": {
+                "town": "Des Moine",
+                "state": "IA",
+                "country": "United States"
+            }
+        },
+        "personKey": "cyndee-pritchard-9db5"
+    },
+    {
+        "_id": {
+            "$oid": "6aa54efb4b02fc3d05a49db6"
+        },
+        "name": {
+            "first": "Michael",
+            "middle": "J",
+            "last": "Pritchard",
+            "suffix": ""
+        },
+        "birth": {
+            "date": "1973-06-06",
+            "location": {
+                "town": "Naple",
+                "state": "FL",
+                "country": "United States"
+            }
+        },
+        "personKey": "michael-pritchard-9db6"
+    },
+    {
+        "_id": {
+            "$oid": "6aa54f374b02fc3d05a49db7"
+        },
+        "name": {
+            "first": "Steven",
+            "middle": "W",
+            "last": "Pritchard",
+            "suffix": ""
+        },
+        "birth": {
+            "date": "1984-10-07",
+            "location": {
+                "town": "Jackson",
+                "state": "WY",
+                "country": "United States"
+            }
+        },
+        "personKey": "steven-pritchard-9db7"
+    },
+    {
+        "_id": {
+            "$oid": "6aa54f8a4b02fc3d05a49db8"
+        },
+        "name": {
+            "first": "Kimberly",
+            "Middle": "L",
+            "last": "Jaraiedi",
+            "suffix": ""
+        },
+        "birth": {
+            "date": "1987-07-27",
+            "location": {
+                "town": "Portland",
+                "state": "ME",
+                "country": "United States"
+            }
+        },
+        "personKey": "kimberly-jaraiedi-9db8"
+    }
+]
