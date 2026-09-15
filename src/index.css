@@ -31,3 +31,8 @@ footer {
     color: aliceblue;
     height: 50px;
 }
+
+.twoCol {
+  column-count: 2;
+  column-gap: 2rem;
+}
